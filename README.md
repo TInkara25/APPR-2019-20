@@ -1,5 +1,9 @@
 # Analiza podatkov s programom R, 2019/20
 
+# Analiza kriminalitete v Sloveniji
+
+Avtor: Tinkara Žitko
+
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
@@ -7,8 +11,35 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V svoji projektni nalogi bom analizirala kriminaliteto v Sloveniji. 
+
+Analizirala bom:
+* količino ovadenih, obtoženih in obsojenih fizičnih oseb
+* količine primerjala glede na kaznivo dejanje
+* primerjala količine glede na sankcije, glavno kazen oziroma varnostni ukrep
+* glede na spol in starost (mladletni, polnoletni)
+* trende skozi zadnjih 5 let
+* količino obsojenih oseb glede na statistične regije Slovenije
+
+Tabele:
+* Tabela 1: Obsojene mladoletne osebe - KAZNIVO DEJANJE, SANKCIJA, SPOL, LETO
+* Tabela 2: Obsojene polnoletne in mladoletne osebe po statističnih regijah - STATISTIČNA REGIJA, KAZALNIK, LETO
+* Tabela 3: Obsojene polnoletne osebe - KAZNIVO DEJANJE, GLAVNA KAZEN, SPOL, LETO
+* Tabela 4: Obsojene polnoletne osebe - KAZNIVO DEJANJE, VARNOSTNI UKREP, SPOL, LETO
+* Tabela 5: Obtožene mladoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, LETO
+* Tabela 6: Obtožene polnoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, LETO
+* Tabela 7: Ovadene mladoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, STAROST, LETO
+* Tabela 8: Ovadene polnoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, STAROST, LETO
+
+Viri:
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__06_13606_obsojene_mlad_osebe/1360603s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__10_13722_obsojene_kazalniki/1372202s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__03_13603_obsojene_poln_osebe/1360301S.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__03_13603_obsojene_poln_osebe/1360303s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__05_13605_obtozene_mlad_osebe/1360501s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__02_13602_obtozene_poln_osebe/1360201s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__04_13604_ovadene_mlad_osebe/1360403s.px/
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__01_13601_ovadene_poln_osebe/1360106s.px/
 
 ## Program
 
