@@ -22,8 +22,8 @@ Analizirala bom:
 * količino obsojenih oseb glede na statistične regije Slovenije
 
 Tabele:
-* Tabela 1: Obsojene mladoletne osebe - KAZNIVO DEJANJE, SANKCIJA, SPOL, LETO
-* Tabela 2: Obsojene polnoletne in mladoletne osebe po statističnih regijah - STATISTIČNA REGIJA, KAZALNIK, LETO
+* Tabela 1: Obsojeni polnoletni in mladoletni po statističnih regijah - STATISTIČNA REGIJA, OBSOJENI, LETO
+* Tabela 2: Obsojeni polnoletni in mladoletni po občinah stalnega prebivališča - OBČINA STALNEGA PREBIVALJIŠČA, OBSOJENI, LETO
 * Tabela 3: Obsojene polnoletne osebe - KAZNIVO DEJANJE, GLAVNA KAZEN, SPOL, LETO
 * Tabela 4: Obsojene polnoletne osebe - KAZNIVO DEJANJE, VARNOSTNI UKREP, SPOL, LETO
 * Tabela 5: Obtožene mladoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, LETO
@@ -32,8 +32,8 @@ Tabele:
 * Tabela 8: Ovadene polnoletne osebe - KAZNIVO DEJANJE, VRSTA ODLOČBE, SPOL, STAROST, LETO
 
 Viri:
-* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__06_13606_obsojene_mlad_osebe/1360603s.px/
-* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__10_13722_obsojene_kazalniki/1372202s.px/
+* https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1372202S.px
+* https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/1372201S.px
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__03_13603_obsojene_poln_osebe/1360301S.px/
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__03_13603_obsojene_poln_osebe/1360303s.px/
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__13_kriminaliteta__01_statistika_toz_sodisc__05_13605_obtozene_mlad_osebe/1360501s.px/
